@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
 	<filename>131.jpeg</filename>
-	<path>C:\Users\Ricard\Desktop\zellen\data\131.jpeg</path>
+	<path>C:\git\home\yeast.image.analysis\resources\data\131.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -36,15 +36,51 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>individual</name>
+		<name>budding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>126</xmin>
-			<ymin>102</ymin>
-			<xmax>136</xmax>
-			<ymax>112</ymax>
+			<xmin>124</xmin>
+			<ymin>96</ymin>
+			<xmax>139</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>85</ymin>
+			<xmax>80</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>165</ymin>
+			<xmax>88</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>99</ymin>
+			<xmax>256</xmax>
+			<ymax>126</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -5,8 +5,15 @@ name = "pypi"
 
 [packages]
 pyqt5 = "*"
+torch = "*"
+torchvision = "*"
+matplotlib = "*"
+sklearn = "*"
+labelimg = "*"
+lxml = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"

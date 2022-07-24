@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
 	<filename>119.jpeg</filename>
-	<path>C:\Users\Ricard\Desktop\zellen\data\119.jpeg</path>
+	<path>C:\git\home\yeast.image.analysis\resources\data\119.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,6 +57,30 @@
 			<ymin>170</ymin>
 			<xmax>244</xmax>
 			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>109</ymin>
+			<xmax>88</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>budding</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>228</ymin>
+			<xmax>256</xmax>
+			<ymax>250</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>data</folder>
 	<filename>129.jpeg</filename>
-	<path>C:\Users\Ricard\Desktop\zellen\data\129.jpeg</path>
+	<path>C:\git\home\yeast.image.analysis\resources\data\129.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>individual</name>
+		<name>budding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

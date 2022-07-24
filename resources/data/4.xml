@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>individual</name>
+		<name>budding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>cluster</name>
+		<name>budding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -114,20 +114,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>174</xmin>
-			<ymin>248</ymin>
-			<xmax>186</xmax>
-			<ymax>256</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>individual</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>189</xmin>
 			<ymin>247</ymin>
-			<xmax>201</xmax>
+			<xmax>204</xmax>
 			<ymax>256</ymax>
 		</bndbox>
 	</object>

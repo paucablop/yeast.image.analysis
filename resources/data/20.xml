@@ -48,31 +48,19 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>budding</name>
+		<name>cluster</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>118</xmin>
 			<ymin>144</ymin>
-			<xmax>134</xmax>
-			<ymax>165</ymax>
+			<xmax>155</xmax>
+			<ymax>166</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>budding</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>134</xmin>
-			<ymin>144</ymin>
-			<xmax>153</xmax>
-			<ymax>165</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>individual</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -96,7 +84,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>individual</name>
+		<name>budding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -108,7 +96,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>individual</name>
+		<name>budding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

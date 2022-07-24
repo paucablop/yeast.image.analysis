@@ -59,4 +59,16 @@
 			<ymax>232</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>cluster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>107</ymin>
+			<xmax>211</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
 </annotation>
